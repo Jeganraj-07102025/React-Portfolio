@@ -1,0 +1,76 @@
+/* General section styling */
+#contact {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #fdfdfd;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Section heading */
+#contact h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #1a73e8;
+}
+
+/* Intro paragraph */
+.contact-intro {
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  color: #555;
+}
+
+/* Contact info container */
+.contact-info p {
+  margin: 10px 0;
+  font-size: 1rem;
+}
+
+/* Notes under each contact item */
+.note {
+  font-size: 0.9rem;
+  color: #777;
+  margin: 5px 0 15px 0;
+}
+
+/* Links styling */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Resume button */
+.resume-button {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 8px 15px;
+  background-color: #1a73e8;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.resume-button:hover {
+  background-color: #1558b0;
+}
+
+/* Outro paragraph */
+.contact-outro {
+  text-align: center;
+  font-style: italic;
+  color: #555;
+  margin-top: 30px;
+  line-height: 1.4;
+}
