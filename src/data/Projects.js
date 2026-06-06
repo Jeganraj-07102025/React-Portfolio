@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     title: "Portfolio Website",
     description: "A personal portfolio website built with React and CSS.",
-    link: "#",
+    link: "https://react-portfolio-topaz-two.vercel.app/",
   },
   {
     id: 2,
