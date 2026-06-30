@@ -28,7 +28,7 @@ const Contact = () => {
           <strong>Resume:</strong>{" "}
           <a
             href={resumeFile}
-            download="Jeganraj P.pdf"
+            download="JEGANRAJ.P.pdf"
             className="resume-button"
           >
             Download My Resume
