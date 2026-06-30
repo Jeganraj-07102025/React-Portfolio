@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contact.css";
-import resumeFile from "../assets/JEGANRAJ.P.pdf";
+import resumeFile from "../assets/Jeganraj.P.pdf";
 
 const Contact = () => {
   const email = "jegandhara99@gmail.com.com";
@@ -28,7 +28,7 @@ const Contact = () => {
           <strong>Resume:</strong>{" "}
           <a
             href={resumeFile}
-            download="JEGANRAJ.P.pdf"
+            download="Jeganraj.P.pdf"
             className="resume-button"
           >
             Download My Resume
