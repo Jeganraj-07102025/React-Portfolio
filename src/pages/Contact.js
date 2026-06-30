@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contact.css";
-import resumeFile from "../assets/Jeganraj.P.pdf";
+import resumeFile from "../assets/JEGANRAJ.P.pdf";
 
 const Contact = () => {
   const email = "jegandhara99@gmail.com.com";
